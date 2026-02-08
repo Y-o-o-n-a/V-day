@@ -99,7 +99,7 @@ function App() {
               className="mb-6"
             >
               <img
-                src="https://media.tenor.com/YeALWQcVFpEAAAAj/bubu-dudu-rose-dudu-propose.gif"
+                src="https://media.tenor.com/YeALWQcVFpEAAAAi/bubu-dudu-rose-dudu-propose.gif"
                 alt="Cute bear with flowers"
                 className="w-32 h-32 sm:w-40 sm:h-40 mx-auto object-contain"
               />
@@ -197,7 +197,7 @@ function App() {
               className="mb-6"
             >
               <img
-                src="https://media.tenor.com/2l4-h42qnmcAAAAi/bubu-dudu-bubu.gif"
+                src="https://media1.tenor.com/m/pN7xf12qQcwAAAAC/cuddle-cute.gif"
                 alt="Bears hugging"
                 className="w-40 h-40 sm:w-48 sm:h-48 mx-auto object-contain"
               />
@@ -210,9 +210,9 @@ function App() {
               transition={{ delay: 0.6 }}
               className="text-gray-600 text-lg mb-6"
             >
-              You made me the happiest person alive! 
+              You made me the happiest BOIBOI IN THE WORLD! 
               <br />
-              I love you so much! 💖
+              I love you so much MY PRECIOUS BABYYY! 💖
             </motion.p>
 
             {/* Reset Button */}
