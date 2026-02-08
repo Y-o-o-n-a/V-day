@@ -186,7 +186,7 @@ function App() {
               transition={{ delay: 0.2 }}
               className="text-3xl sm:text-4xl font-bold text-rose-500 mb-6"
             >
-              Knew you would say yes! 💕
+              Hehehe Thank you my lovee!!!! 💕
             </motion.h1>
 
             {/* Hugging Bears GIF */}
