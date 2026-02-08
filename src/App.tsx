@@ -99,7 +99,7 @@ function App() {
               className="mb-6"
             >
               <img
-                src="https://tenor.com/view/bubu-dudu-rose-dudu-propose-dudu-gives-rose-dudu-giving-rose-rose-gif-7052649493461014161"
+                src="https://tenor.com/view/love-gif-7644330066038750623"
                 alt="Cute bear with flowers"
                 className="w-32 h-32 sm:w-40 sm:h-40 mx-auto object-contain"
               />
